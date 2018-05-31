@@ -2,9 +2,9 @@
 // @name                WME Validator
 // @version             1.1.20
 // @description         This script validates a map area in Waze Map Editor, highlights issues and generates a very detailed report with wiki references and solutions
-// @match               https://editor-beta.waze.com/*editor/*
-// @match               https://www.waze.com/*editor/*
-// @exclude             https://www.waze.com/*user/*editor/*
+// @match               https://beta.waze.com/*editor*
+// @match               https://www.waze.com/*editor*
+// @exclude             https://www.waze.com/*user/*editor*
 // @grant               none
 // @icon                http://s3.amazonaws.com/uso_ss/icon/191016/large.png?1388868317
 // @namespace           a
